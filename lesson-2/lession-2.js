@@ -3,7 +3,7 @@
  * 2 toán tử gán - Assignment dùng dấu =
  * 3 toán tử so sánh - Comparison dùng 2 dấu =
  * 4 toán tử logic - Logical
- 
+ dùng typeof để nhìn tính chất của dữ liệu truyền vào
 
 */ 
 
