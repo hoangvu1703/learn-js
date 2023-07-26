@@ -2,7 +2,6 @@
 // 2. Attribute
 // 3. Text
 
-// InnerHTML, OuterHTML
 
 var boxElement = document.querySelector('.box')
 
